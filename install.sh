@@ -293,6 +293,8 @@ sudo apt-get -y install php7.2-curl
 sudo apt-get -y install imagemagick
 sudo apt-get -y install php7.2-imagick
 
+sudo update-alternatives --set php /usr/bin/php7.2
+
 
 
 
